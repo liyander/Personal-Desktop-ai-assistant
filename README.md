@@ -28,6 +28,7 @@ Clone the repository:
 Copy code
 
 `git clone https://github.com/username/personal-desktop-assistant.git`
+
 `cd personal-desktop-assistant`
 
 Install the required packages:
