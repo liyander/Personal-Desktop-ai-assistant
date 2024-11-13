@@ -1,4 +1,4 @@
-Personal Desktop Assistant
+<h1>Personal Desktop Assistant</h1>
 This is a Personal Desktop Assistant project built using Python. The assistant can perform various tasks, including voice recognition, text-to-speech responses, opening applications, searching online, performing calculations, answering queries, and more.
 
 Features
