@@ -29,7 +29,8 @@ Copy code
 
 `git clone https://github.com/username/personal-desktop-assistant.git`
 `cd personal-desktop-assistant`
-`Install the required packages:`
+
+Install the required packages:
 
 Copy code
 `pip install -r requirements.txt`
