@@ -1,4 +1,4 @@
-<h1>Personal Desktop Assistant</h1>
+<h1>Tony - Personal Desktop Assistant</h1>
 This is a Personal Desktop Assistant project built using Python. The assistant can perform various tasks, including voice recognition, text-to-speech responses, opening applications, searching online, performing calculations, answering queries, and more.
 
 <h2>Features</h2>
@@ -32,6 +32,7 @@ Copy code
 
 Copy code
 `pip install -r requirements.txt`
+
 Run the assistant:
 
 Copy code
