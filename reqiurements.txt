@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+geopy
+psutil
+requests
+beautifulsoup4
+wolframalpha
+pyautogui
+opencv-python
+pyjokes
