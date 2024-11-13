@@ -21,7 +21,7 @@ The project uses the following Python libraries. They can be installed using pip
 
 bash
 Copy code
-pip install SpeechRecognition pyttsx3 geopy psutil requests beautifulsoup4 wolframalpha pyautogui opencv-python pyjokes
+'pip install SpeechRecognition pyttsx3 geopy psutil requests beautifulsoup4 wolframalpha pyautogui opencv-python pyjokes'
 Installation
 Clone the repository:
 
