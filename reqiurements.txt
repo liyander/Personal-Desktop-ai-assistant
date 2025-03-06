@@ -1,4 +1,5 @@
 SpeechRecognition
+wikipedia
 pyttsx3
 geopy
 psutil
@@ -8,4 +9,5 @@ wolframalpha
 pyautogui
 opencv-python
 pyjokes
+pyaudio
 pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
